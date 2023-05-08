@@ -3,12 +3,12 @@ sidebar_position: 1
 title: Node Requirements
 ---
 
-Conflux is a fully decentralized network based on PoW (proof of work). If you want to participate in mining of this decentralized network, or have your own RPC service, you need to run a Node (also called a client).This article shows you how to run a Conflux node.
+Conflux is an entirely decentralized network that warmly welcomes individuals to join. Those who wish to take part in mining activities or host their own RPC services are required to run a Node, which is also referred to as a client. This article serves to guide you through the process of running a Conflux node.
 
-## Archivenode VS fullnode
-There are 3 types of Conflux nodes : archivenode, fullnode and lightnode. The difference between three types of nodes lies in the amount of data reserved for storage. The archive node takes the most and the light node takes the least. Of course, more data consumes more hardware resources. Click here for detailed information of nodes.
+## Archive Node VS Full Node
+There are 3 types of Conflux nodes : archive node, full node and light node. The difference between three types of nodes lies in the amount of data reserved for storage. The archive node takes the most and the light node takes the least. Of course, more data consumes more hardware resources. 
 
-In general, if you want to participate in mining, a fullnode will suffice . you need to run an archivenode if you want to use it as RPC service. The lightnode is mainly used as a wallet.
+In general, if you want to participate in mining, a fullnode will suffice. you need to run an archivenode if you want to use it as RPC service. The lightnode is mainly used as a wallet.
 
 ## Hardware Requirements
 - The hardware requirement to run an archivenode are roughly as follows:
